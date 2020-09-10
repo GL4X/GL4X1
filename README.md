@@ -15,7 +15,7 @@ But if you do log in to your personal account, make sure to remove your account 
 - The single GL4X1-vX.XX.pyc file is the launcher itself. When opened, a window will pop-up that allows you to run the games/apps downloaded previously (the .docx files)
 
 <h3>Instructions:</h3>
-<h4>1) First, download the **GL4X1-vX.XX.pyc**<h4> file found [here](https://github.com/GL4X/GL4X1)
+<h4>1) First, download the **GL4X1-vX.XX.pyc** file found [here](https://github.com/GL4X/GL4X1)
 2) Then, go ahead and download each of the game/app files you want (such as Minecraft-v1.0.docx)
 3) Then, simply open the **GL4X1-vX.XX.pyc** file on the computer you want to run your games/apps on.
 4) Now, to install a game (such as Minecraft), go ahead and click the "install app" button!
