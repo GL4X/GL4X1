@@ -10,12 +10,12 @@ This is not neccessary however if you just want to play offline :)
 But if you do log in to your personal account, make sure to remove your account from Minecraft when finished.</h4>
 
 <h3>Useful information:</h3>
-<h4>On [this page](https://github.com/GL4X/GL4X1), you'll find a list of files:
+<h4>On [this page](https://github.com/GL4X/GL4X1/releases), you'll find a list of files:
 - The .docx files are game/app files (such as Minecraft-v1.0.docx)
 - The single GL4X1-vX.XX.pyc file is the launcher itself. When opened, a window will pop-up that allows you to run the games/apps downloaded previously (the .docx files)
 
 <h3>Instructions:</h3>
-<h4>1) First, download the **GL4X1-vX.XX.pyc** file found [here](https://github.com/GL4X/GL4X1)
+<h4>1) First, download the **GL4X1-vX.XX.pyc** file found [here](https://github.com/GL4X/GL4X1/releases)
 2) Then, go ahead and download each of the game/app files you want (such as Minecraft-v1.0.docx)
 3) Then, simply open the **GL4X1-vX.XX.pyc** file on the computer you want to run your games/apps on.
 4) Now, to install a game (such as Minecraft), go ahead and click the "install app" button!
